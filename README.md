@@ -20,3 +20,5 @@
   <img align="center" alt="Arthur-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 
 </div>
+
+![snake gif](https://github.com/ArthurSSJ/ArthurSSJ/blob/output/github-contribution-grid-snake.gif)
