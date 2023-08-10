@@ -2,7 +2,6 @@
  
 [![Blog](https://img.shields.io/website?label=arthurssj.github.io&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://arthurssj.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vieira-937326257/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531999011787)
 
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurssj&theme=algolia&show_icons=true)
